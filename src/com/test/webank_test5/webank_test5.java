@@ -1,4 +1,4 @@
-package webank_test5;
+package com.test.webank_test5;
 
 public class webank_test5 {
 	public static void main(String args[]){
